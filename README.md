@@ -6,7 +6,7 @@
 
 How to run the program?
 
-    1) Down all the files in the project folder.
+    1) Download all the files in the project folder.
     2) Make sure input files "trace.txt", "vector_table.txt" and "device_table.txt"in the same folder as "interrupts.c" and "interrupts.h".
     3) Navigate to the project folder where all the files are. 
     4) Open the terminal from that folder.
